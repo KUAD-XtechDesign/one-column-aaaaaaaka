@@ -8,13 +8,15 @@ body{
 
 
 .wrapper{
-  background-color: rgb(255, 121, 195);
+  background-color: rgb(0, 225, 255);
 }
    p{text-align:center; }
     
 img{
   max-width: 100%;
 }
+
+
 
 .img_button img{
   display: block;
@@ -81,6 +83,8 @@ img{
 .img{
   width: 20%;
 }
+
+
 
 .txt{
   width: 80%;
